@@ -1,0 +1,13 @@
+Home Money
+
+This app can be divided into some modules (not AngularJS like modules):
+
+1 - Database - It will be implemented using SQLite, which is light and has many implemented interfaces in various programming and scripting languages, like PHP and Python.
+
+2 - Data import - It will be implemented using Python. The main goal here is to be able to import data from bank statements, credit card bills etc.
+
+3 - GUI - It will be implemented as a web application, using HTML 5, CSS 3, AngularJS and PHP. The following aspects will be available:
+    -> Data importing
+    -> Raw data presentation (tables from database)
+    -> Graphs (spendings, earnings, savings, interests etc.)
+    -> More to come...
